@@ -24,6 +24,7 @@
 ![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind-black?style=flat-square&logo=tailwindcss)
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
