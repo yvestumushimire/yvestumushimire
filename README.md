@@ -15,6 +15,9 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![NumPy](https://img.shields.io/badge/-NumPy-black?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=pandas)
+![Scikit-learn](https://img.shields.io/badge/-Scikit_learn-black?style=flat-square&logo=scikit-learn)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React_Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
@@ -24,11 +27,14 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![aws](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
 </p>
