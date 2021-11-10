@@ -40,9 +40,6 @@
 
 </p>
 
-## Stats
-
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=yvestumushimire" />
 
 🙌 Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Tumushimire_Yves-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tumushimire-yves/)](https://www.linkedin.com/in/tumushimire-yves/)
 
